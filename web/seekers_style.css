@@ -1,0 +1,41 @@
+body {
+margin: 0 ;
+background-color: #ECECEC;
+font:13px/1.231 Lucida Grande,arial,helvetica,clean,"è¨íÀÉSÉVÉbÉN Std R","ÉqÉâÉMÉmäpÉS Pro W3",Meiryo,sans-serif;
+*font-size:small;
+*font:x-small;
+}
+
+a:link{
+text-decoration:none ; font-size: 12px 
+; color: #666699}
+a:visited{
+text-decoration:none 
+; color: #666699}
+a:active{
+text-decoration:none 
+}
+
+.second {  
+font-size: 10px; 
+line-height: 15px;
+color: #333333 ; 
+font-style: normal; 
+font-weight: normal
+}
+
+.text01 {  
+font-size: 12px; 
+line-height: 16px;
+color: #666699; 
+font-style: normal; 
+font-weight: normal
+}
+
+.text_PINK { font-size: 12px; line-height: 16px; color: #CC3399; font-style: normal; font-weight: normal }
+
+.second_brown { font-size: 10px; line-height: 15px; color: #333300; font-style: normal; font-weight: normal }
+
+.text_white { font-size: 12px; line-height: 16px; color: #FFFFFF; font-style: normal; font-weight: bold}
+
+.second_grey { font-size: 10px; line-height: 15px; color: #666666; font-style: normal; font-weight: normal }
